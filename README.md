@@ -5,4 +5,10 @@
 
 This repository is the code corresponding to the hands-on lab Building Web Applications with React and Kotlin JS.
 
-**You can find the code of the lab after each step outlined in the tutorial in the corresponding branch.**# playlist_Kotlin
+## 🔗 Links
+
+[Tutorial Link](https://kotlinlang.org/docs/js-react.html)
+
+## Demos
+![Image](Images/image1.png)
+![Image](Images/image2.png)
